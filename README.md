@@ -77,3 +77,7 @@ This line starts the Tkinter event loop, which keeps the application running and
 
 ![Image](https://github.com/user-attachments/assets/9cd41c66-cdcf-4dc3-8b7d-e9f655d96bb7)
 
+![Image](https://github.com/user-attachments/assets/38fc9302-5cf0-45d0-acf4-8b19bfad8418)
+
+
+
